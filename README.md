@@ -1,6 +1,6 @@
 # Prudhvi Saranya Tatini
 
-📍 Tadepalligudem, Andhra Pradesh, India   
+📍 Tadepalligudem, Andhra Pradesh, India  
 📧 [prudhvisaranyatatini@gmail.com](mailto:prudhvisaranyatatini@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/PrudhviSaranya) | [GitHub](https://github.com/PrudhviSaranya)
 
@@ -8,34 +8,10 @@
 
 ## 👩‍💻 About Me
 
-I am a driven and proficient Computer Science Engineer specializing in **Generative Artificial Intelligence** and programming. My goal is to contribute to innovative projects, deliver high-quality solutions, and consistently achieve outstanding results. I am passionate about leveraging cutting-edge technologies to solve real-world problems.
+A passionate Computer Science Engineer specializing in **Generative Artificial Intelligence** and programming. I aim to contribute to innovative projects, deliver high-quality solutions, and solve real-world problems using cutting-edge technologies.
 
 ---
-<!-- 
-## 🎓 Education
 
-**Bachelors in Computer Science and Engineering (Artificial Intelligence)**  
-Sri Vasavi Engineering College (SVEC) | 2022 - Present  
-- **CGPA**: 8.95  
-- **Relevant Coursework**:  
-  - Applied Machine Learning  
-  - Natural Language Processing  
-  - Artificial Intelligence  
-  - Web Application Development  
-  - Object-Oriented Programming  
-  - Optimization Techniques  
-  - Data Structures and Algorithms  
-
-**Major in Mathematics, Physics, and Chemistry**  
-Bharatiya Vidya Bhavan | 2020 - 2022  
-- **Score**: 93%  
-
-**Matriculation**  
-Bharatiya Vidya Bhavan | 2019 - 2020  
-- **Board**: Central Board for Secondary Education (CBSE)  
-- **Score**: 84%  
-
---- -->
 ## 🛠️ Skills
 
 ### Programming Languages:
@@ -69,7 +45,9 @@ Bharatiya Vidya Bhavan | 2019 - 2020
 ### Areas of Interest:
 - ![Generative AI](https://img.shields.io/badge/-Generative%20AI-8E44AD?logo=artstation&logoColor=white)  
 - ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-27AE60?logo=tensorflow&logoColor=white)  
+
 ---
+
 ## 💼 Experience
 
 ### **AWS Intern**  
@@ -78,7 +56,6 @@ Bharatiya Vidya Bhavan | 2019 - 2020
 - Configured **load balancers** to optimize traffic distribution and ensure high availability.  
 - Implemented **Auto Scaling groups** to dynamically adjust resources based on demand, improving cost efficiency.  
 - Enhanced system reliability and scalability by following **best practices in cloud architecture**.  
-- Gained hands-on experience with **Elastic IPs** and other AWS services to streamline operations.  
 
 ---
 
@@ -86,34 +63,18 @@ Bharatiya Vidya Bhavan | 2019 - 2020
 
 ### **Recruitment Race Application**  
 A mobile application designed to foster student development and skill tracking.  
-- **Dynamic Ranking System**: Automatically ranks students based on uploaded certifications and projects, encouraging healthy competition.  
-- **Skill Visualization**: Provides an intuitive platform for students to monitor their personal growth and skill development.  
-- **User-Friendly Interface**: Simplifies the process of uploading and managing credentials for students.  
+- **Dynamic Ranking System**: Automatically ranks students based on uploaded certifications and projects.  
+- **Skill Visualization**: Provides an intuitive platform for students to monitor their personal growth.  
+- **User-Friendly Interface**: Simplifies the process of uploading and managing credentials.  
 
 ### **AI Job Searching Agent**  
 A GenAI-powered tool for job search and resume analysis.  
 - **Resume Analysis**: Evaluates and scores resumes to align them with current job market trends.  
 - **Smart Job Recommendations**: Suggests relevant job openings tailored to user skills and interests.  
-- **Efficiency Boost**: Enhances the job search process with intelligent recommendations and actionable resume insights.  
-- **Market Alignment**: Helps users identify gaps in their resumes and improve their chances of landing desired roles.  
-
-<!-- ## 🏆 Awards
-
-- **3rd Place** in the BrainOVision Hackathon, outperforming 50+ teams in a competitive event centered on innovative solutions using AWS technologies.  
-
---- -->
-<!-- 
-## 🧑‍🤝‍🧑 Leadership
-
-- **Event Coordinator**, Tech Euphoria 2K25 Fest – Sri Vasavi Engineering College (SVEC)  
-  Played a key role in organizing one of the largest college technical fests by managing logistics, coordinating with multiple teams, and ensuring smooth execution of events. Contributed to ideation, planning, and real-time problem-solving during the fest.  
+- **Efficiency Boost**: Enhances the job search process with actionable recommendations.  
+- **Market Alignment**: Identifies gaps in resumes to improve job prospects.  
 
 ---
-
-## 🎉 Extracurricular Activities
-
-- Active member of **Gen AI wing**, Google Developer Groups (2024).  
-- Member of **Club Affairs wing**, Microsoft Learn Student Club. -->
 
 ## 📊 GitHub Stats
 
