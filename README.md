@@ -15,36 +15,19 @@ A passionate Computer Science Engineer specializing in **Generative Artificial I
 ## 🛠️ Skills
 
 ### Programming Languages:
-- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
-- ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
-- ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
 
 ### Libraries/Tools:
-- ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)  
-- ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)  
-- ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=python&logoColor=white)  
-- ![LangChain](https://img.shields.io/badge/-LangChain-FF6F00?logo=chain&logoColor=white)  
-- ![Beautiful Soup](https://img.shields.io/badge/-Beautiful%20Soup-4B8BBE?logo=python&logoColor=white)  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-FF6F00?logo=chain&logoColor=white) ![Beautiful Soup](https://img.shields.io/badge/-Beautiful%20Soup-4B8BBE?logo=python&logoColor=white)  
 
 ### Cloud Platforms:
-- ![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-FF9900?logo=amazon-aws&logoColor=white)  
-- ![AWS VPC](https://img.shields.io/badge/-AWS%20VPC-FF9900?logo=amazon-aws&logoColor=white)  
-- ![AWS S3](https://img.shields.io/badge/-AWS%20S3-569A31?logo=amazon-s3&logoColor=white)  
-- ![Elastic IPs](https://img.shields.io/badge/-Elastic%20IPs-FF9900?logo=amazon-aws&logoColor=white)  
-- ![Load Balancer](https://img.shields.io/badge/-Load%20Balancer-FF9900?logo=amazon-aws&logoColor=white)  
-- ![Auto-scaling Groups](https://img.shields.io/badge/-Auto--scaling%20Groups-FF9900?logo=amazon-aws&logoColor=white)  
+![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-FF9900?logo=amazon-aws&logoColor=white) ![AWS VPC](https://img.shields.io/badge/-AWS%20VPC-FF9900?logo=amazon-aws&logoColor=white) ![AWS S3](https://img.shields.io/badge/-AWS%20S3-569A31?logo=amazon-s3&logoColor=white) ![Elastic IPs](https://img.shields.io/badge/-Elastic%20IPs-FF9900?logo=amazon-aws&logoColor=white) ![Load Balancer](https://img.shields.io/badge/-Load%20Balancer-FF9900?logo=amazon-aws&logoColor=white) ![Auto-scaling Groups](https://img.shields.io/badge/-Auto--scaling%20Groups-FF9900?logo=amazon-aws&logoColor=white)  
 
 ### Soft Skills:
-- ![Communication](https://img.shields.io/badge/-Communication-0078D4?logo=messenger&logoColor=white)  
-- ![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-FF6F00?logo=lightbulb&logoColor=white)  
-- ![Self-learning](https://img.shields.io/badge/-Self--learning-4CAF50?logo=book&logoColor=white)  
-- ![Presentation](https://img.shields.io/badge/-Presentation-FF4081?logo=google-slides&logoColor=white)  
-- ![Adaptability](https://img.shields.io/badge/-Adaptability-FFC107?logo=rocket&logoColor=white)  
+![Communication](https://img.shields.io/badge/-Communication-0078D4?logo=messenger&logoColor=white) ![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-FF6F00?logo=lightbulb&logoColor=white) ![Self-learning](https://img.shields.io/badge/-Self--learning-4CAF50?logo=book&logoColor=white) ![Presentation](https://img.shields.io/badge/-Presentation-FF4081?logo=google-slides&logoColor=white) ![Adaptability](https://img.shields.io/badge/-Adaptability-FFC107?logo=rocket&logoColor=white)  
 
 ### Areas of Interest:
-- ![Generative AI](https://img.shields.io/badge/-Generative%20AI-8E44AD?logo=artstation&logoColor=white)  
-- ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-27AE60?logo=tensorflow&logoColor=white)  
+![Generative AI](https://img.shields.io/badge/-Generative%20AI-8E44AD?logo=artstation&logoColor=white) ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-27AE60?logo=tensorflow&logoColor=white)  
 
 ---
 
