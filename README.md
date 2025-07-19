@@ -1,7 +1,7 @@
 # Prudhvi Saranya Tatini
 
 📍 Tadepalligudem, Andhra Pradesh, India  
-📧 [prudhvisaranyatatini@gmail.com](mailto:prudhvisaranyatatini@gmail.com)  
+📧 [prudhvisaranya20@gmail.com](mailto:prudhvisaranyatatini@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/PrudhviSaranya) | [GitHub](https://github.com/PrudhviSaranya)
 
 ---
