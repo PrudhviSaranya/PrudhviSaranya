@@ -24,8 +24,11 @@ Driven and passionate engineering student with a strong interest in software dev
 ### Soft Skills:
 ![Communication](https://img.shields.io/badge/-Communication-0078D4?logo=messenger&logoColor=white) ![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-FF6F00?logo=lightbulb&logoColor=white) ![Self-learning](https://img.shields.io/badge/-Self--learning-4CAF50?logo=book&logoColor=white) ![Presentation](https://img.shields.io/badge/-Presentation-FF4081?logo=google-slides&logoColor=white) ![Adaptability](https://img.shields.io/badge/-Adaptability-FFC107?logo=rocket&logoColor=white)  
 
-### Areas of Interest:
-![Generative AI](https://img.shields.io/badge/-Generative%20AI-8E44AD?logo=artstation&logoColor=white) ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-27AE60?logo=tensorflow&logoColor=white)  
+### Areas of Interest: 
+![Generative AI](https://img.shields.io/badge/-Generative%20AI-8E44AD?logo=artstation&logoColor=white)  
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-27AE60?logo=tensorflow&logoColor=white)  
+![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-1F618D?logo=chart-line&logoColor=white)
+
 
 ---
 
