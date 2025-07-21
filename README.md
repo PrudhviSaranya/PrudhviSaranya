@@ -53,7 +53,13 @@ A GenAI-powered tool for job search and resume analysis.
 - **Resume Analysis**: Evaluates and scores resumes to align them with current job market trends.  
 - **Smart Job Recommendations**: Suggests relevant job openings tailored to user skills and interests.  
 - **Efficiency Boost**: Enhances the job search process with actionable recommendations.  
-- **Market Alignment**: Identifies gaps in resumes to improve job prospects.  
+- **Market Alignment**: Identifies gaps in resumes to improve job prospects.
+
+### **Sales Data Analysis Dashboard**  
+Built with **Microsoft Excel**  
+- Developed an interactive dashboard using pivot tables, charts, and XLOOKUP to analyze monthly sales, profits, and commissions.  
+- Uncovered key business insights, identified top-performing products, and highlighted sales trends for better decision-making.  
+- Led weekly code reviews and integrated static analysis tools, reducing bugs in the seating plan generator by 40% and enhancing code quality—even as the most junior team member.
 
 ---
 
