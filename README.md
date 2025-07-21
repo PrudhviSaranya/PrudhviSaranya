@@ -31,12 +31,12 @@ Driven and passionate engineering student with a strong interest in software dev
 
 ## 💼 Experience
 
-### **AWS Intern**  
-**BrainOVision (Remote)** | *Jan 2023 - Mar 2023*  
-- Designed and deployed scalable cloud infrastructure using **AWS EC2**, **VPC**, and **S3 buckets**.  
-- Configured **load balancers** to optimize traffic distribution and ensure high availability.  
-- Implemented **Auto Scaling groups** to dynamically adjust resources based on demand, improving cost efficiency.  
-- Enhanced system reliability and scalability by following **best practices in cloud architecture**.  
+### **Software Development Intern**  
+**NIT Andhra Pradesh** | *May 2025 – Jul 2025*  
+**Tech Stack**: Django, PostgreSQL, HTML/CSS, JavaScript  
+- Engineered a constraint-based seating algorithm to eliminate intra-branch proximity, ensuring collision-free allocations for 2800+ students across multi-layout rooms.  
+- Enhanced the institute’s academic portal by developing new features, optimizing backend data flows, resolving bugs, and improving overall system usability and performance. 
+- Automated end-to-end seating logistics by integrating dynamic schema mapping and real-time data validation, reducing planning time from 20 hours to 1 hour and improving spatial utilization by 23%.
 
 ---
 
