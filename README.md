@@ -8,7 +8,7 @@
 
 ## 👩‍💻 About Me
 
-A passionate Computer Science Engineer specializing in **Generative Artificial Intelligence** and programming. I aim to contribute to innovative projects, deliver high-quality solutions, and solve real-world problems using cutting-edge technologies.
+Driven and passionate engineering student with a strong interest in software development, data analysis, and GenerativeAI. Eager to apply technical skills to real-world challenges, explore cutting-edge AI innovations, and contribute meaningfully as a proactive and collaborative team player
 
 ---
 
